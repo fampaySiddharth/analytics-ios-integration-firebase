@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
 
   s.dependency 'Analytics'
   s.dependency 'Firebase', '~> 7.2'
-  s.dependency 'Firebase/Core', '~> 7.2
+  s.dependency 'Firebase/Core', '~> 7.2'
   s.dependency 'FirebaseAnalytics','~> 7.2'
   s.dependency 'Firebase/Crashlytics','~> 7.2'
   s.dependency 'Firebase/DynamicLinks','~> 7.2'
